@@ -50,4 +50,5 @@ Book.prototype = {
   }
 }
 
-const Book1 = new Book('John Duckett','JavaScript',2017,'Kiyv Publish House', '');
+const book1 = new Book('John Duckett','JavaScript',2017,'Kiyv Publish House', '');
+const book2 = new Book('John Duckett Junior','JavaScript Advanced',2022,'Kiyv Publish House', '');
